@@ -1,0 +1,23 @@
+# OS & Editor
+.DS_Store
+*.swp
+*.swo
+
+# Sensitive credentials & environment files
+.env
+.env.*
+*.key
+*.pem
+projects.json
+*token*
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
